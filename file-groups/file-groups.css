@@ -1,0 +1,75 @@
+#queueContainer {
+	margin:10px 0px 10px 0px;
+	border:1px solid #E1E1E1;
+	padding:10px 10px 0px 10px;
+	border-radius:6px;
+	-moz-border-radius:6px;
+	clear:both;
+}
+
+#queue {
+	padding:10px;
+}
+
+#inputs {
+	padding:10px;
+}
+
+.queuedFile {
+	padding:3px 0px;
+}
+
+.remX {
+	vertical-align:middle;
+	margin-right:10px;
+}
+
+.attachment-46x60 {
+	width:46px;
+	height:60px;
+}
+
+.fg_list_item {
+/*	display:inline-block; no-worky */
+	float:left;
+	border:1px solid #DFDFDF;
+	border-radius:8px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	-khtml-border-radius:6px;
+	padding:6px;
+	background:#F9F9F9;
+	margin:0px 7px 9px 0px;
+	width:210px;
+	line-height:15px;
+	word-wrap:break-word;
+}
+
+.fg_list_item_link {
+	border:1px solid #F9F9F9;
+	margin-left:60px;
+}
+
+.iconWrap {
+	float:left;
+	margin-right:10px;
+}
+
+.fg_xit {
+	background: url("xit.gif") no-repeat scroll 0 0 transparent;
+	cursor: pointer;
+	display: block;
+	float: left;
+	height: 10px;
+	width: 10px;
+	margin-left: -13px;
+	overflow: hidden;
+}
+.fg_xit:hover {
+	background-position: -10px 0 !important;
+}
+.fg_list_item .fg_xit {
+	float:right;
+	margin:0px;
+	padding:0px;
+}
